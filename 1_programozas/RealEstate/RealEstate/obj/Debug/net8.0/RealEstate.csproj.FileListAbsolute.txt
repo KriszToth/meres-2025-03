@@ -1,0 +1,15 @@
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.exe
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.deps.json
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.runtimeconfig.json
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.dll
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.pdb
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.AssemblyInfoInputs.cache
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.AssemblyInfo.cs
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.sourcelink.json
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.dll
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\refint\RealEstate.dll
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.pdb
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.genruntimeconfig.cache
+C:\Users\tothk.23szv\Documents\GitHub\meres-2025-03\1_programozas\RealEstate\RealEstate\obj\Debug\net8.0\ref\RealEstate.dll
